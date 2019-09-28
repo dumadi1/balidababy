@@ -4,7 +4,7 @@ var textArray = [
     "",
     "",""];
   //  var images=['tryal.jpg','test.jpg','test2.jpg','pos.jpg'];
-    var back=['newbali.GIF','newbali2.GIF','giphy.gif','newbali3.GIF','newbali4.GIF']
+    var back=['newbali.gif','newbali2.gif','giphy.gif','newbali3.gif','newbali4.gif']
 var count=-1;
 max=14;
 min=8;
